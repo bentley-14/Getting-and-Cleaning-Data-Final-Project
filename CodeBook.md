@@ -41,7 +41,7 @@ All Gyro in column’s name replaced by Gyroscope\
 All BodyBody in column’s name replaced by Body\
 All Mag in column’s name replaced by Magnitude\
 All start with character f in column’s name replaced by Frequency\
-All start with character t in column’s name replaced by Time\
+All start with character t in column’s name replaced by Time
 
 7. **From the data set in step 6, creates a second, independent tidy data set with the average of each variable for each activity and each subject.**\
 final (180 rows, 88 columns) is created by sumarizing tidy taking the means of each variable for each activity and each subjectid, after grouped by subject and activityid.
